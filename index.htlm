@@ -9,6 +9,14 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+<body>
+  <div id="root"></div>
+
+  <!-- Tidio Script -->
+  <script src="//code.tidio.co/ignrh5ljhj85j5s4asngnap7hhuft4r0.js" async></script>
+
+  <script type="module" src="/src/main.jsx"></script>
+</body>
   </body>
 </html>
 
